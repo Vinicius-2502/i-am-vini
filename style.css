@@ -6,6 +6,7 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vw;
 }
 
 :root {
@@ -146,4 +147,13 @@ footer {
 .light #switch button {
   right: 0;
   left: inherit;
+}
+
+@media (min-width:700px){
+  :root{
+      --bg-url: url(./assets/assets/bg-desktop.jpg);
+  }
+  .light{
+     --bg-url: url(./assets/assets/bg-desktop-light.jpg);
+  }
 }
