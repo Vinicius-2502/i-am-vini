@@ -10,7 +10,7 @@ function togglemode() {
   const img = document.querySelector('#profile img')
   if (html.classList.contains('light'))
   {
-    img.setAttribute("src" , "./assets/assets/avatar-light.png")
+    img.setAttribute("src" , "./img wahtsap/imagem 1.jpg")
   }
-  else{img.setAttribute("src" , "./assets/assets/avatar.png")}
+  else{img.setAttribute("src", "./img wahtsap/nova img 2.jpg")}
 }
