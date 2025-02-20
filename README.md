@@ -39,10 +39,10 @@ visitas online.
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/A4lYx3AbcejShRKwWkzkbg/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=1437-191&t=E5T6vdffRKeeJYoO-1/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Lricença
+## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
